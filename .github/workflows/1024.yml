@@ -31,6 +31,7 @@ jobs:
         USER: ${{ secrets.USER }}
         PASSWORD: ${{ secrets.PASSWORD }}
         SECRET: ${{ secrets.SECRET }}
+        COOKIES: ${{ secrets.COOKIES }}
         TOKER: ${{ secrets.TOKER }}
         CODEUSER: ${{ secrets.CODEUSER }}
         CODEPASS: ${{ secrets.CODEPASS }}

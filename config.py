@@ -1,5 +1,5 @@
 config={
     'Forbid':True,
-    'Input_self':False,
+    'Input_self':True,
     'like':True,
 }

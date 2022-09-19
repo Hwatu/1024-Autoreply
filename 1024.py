@@ -346,7 +346,7 @@ class Autoreply:
 
 if __name__ == "__main__":
     n=0
-    cookieslist = os.environ["COOKIES"]
+    cookieslist = []
     todaylist=[]
     user= os.environ["USER"]
     password= os.environ["PASSWORD"]
